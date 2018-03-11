@@ -1,0 +1,2 @@
+By making the data list of nodes a list of pointer to nodes, we can reduce the vector counts for the Prepend, Append, and Insert tests and
+reduce all the counts to zero for the Get test for both the vector and the list. 
